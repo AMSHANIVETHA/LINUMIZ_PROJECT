@@ -1,4 +1,4 @@
-#MSHANIVETHA
+#AMSHANIVETHA
 #Shell script to find ELF file in a given path and to print its size
 #! /bin/bash
 # path to the file
